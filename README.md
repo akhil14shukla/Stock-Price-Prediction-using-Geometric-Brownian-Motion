@@ -3,7 +3,7 @@ Stock Price Prediction
 Disclaimer:
 Do not use our model directly to buy or sell stocks in real life, we do not guarantee any success.
 
-We will use Geometric Brownian Motion to predict the sotck price.
+We will use Geometric Brownian Motion to predict the stock price.
 ![Akhil and Shivam Collaborations](stonks.jpg)
 
 On the stock exchange, the stock is the most traded instrument. They are a source of income to the companies and investors, but they are intertwined with risk. Thus predicting stock prices and that too with accuracy becomes very important. It can help to anticipate losses and thus provide optimal benefit to the investors.
